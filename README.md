@@ -7,10 +7,10 @@ Architect</h3>
 
 ### Projects:
 
-- [Algorithms](https://github.com/frozjeee/algorithms) - solutions for LeetCode problems using Python
+- [Algorithms](https://github.com/frozjeee/algorithms) - solutions for LeetCode problems and algorithm implementations using Python
 - [ML/DS](https://github.com/frozjeee/ML-DS) - playground of ML. Implemented basic regression, linear, classification models and learned some techniques like transfer learning, data augmentation, dropout reguleration etc. using Tensorflow and Keras
-- [CryptoMarket](https://github.com/frozjeee/CryptoMarketAPI) - 
-- [Blog](https://github.com/frozjeee/DRF_blog) - simple blog with authentication, posts and users. Used Django for backend and SSR, Postgres for database
+- [CryptoMarket](https://github.com/frozjeee/CryptoMarketAPI) - market where users can buy and sell (not real) coins. Implemented document check for only 1 account per human and engine for buy/sell matching. Used FastAPI, Postgres, RMQ, Docker
+- [Blog](https://github.com/frozjeee/DRF_blog) - simple blog with authentication, posts and users. Used Django and PostgresSQL
 - [BadApple](https://github.com/frozjeee/bad_apple) - small project for recreating videos with symbols in terminal using OpenCV
 
 <h3 align="left">Connect with me:</h3>
