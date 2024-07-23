@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duzhassarov Miras</h1>
-<h3 align="center">A passionate python developer from Kazakhstan. Strong junior backend developer with 1.6 years of experience. Currently trying other fields System Design and ML/DS. My goal is to become a Software 
+<h3 align="center">A passionate python developer from Kazakhstan. Strong junior backend developer with 1.6 years of experience. Currently trying other fields System Design and ML/DS. My goal is to become a Solution 
 Architect</h3>
 
 - 📫 How to reach me **miras.duzhassarov@gmail.com**
